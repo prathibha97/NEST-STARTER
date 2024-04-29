@@ -1,6 +1,6 @@
 ## Description
 
-[NestJS Scaffold Project](https://github.com/OctaCode-BL/nestjs-scaffold-project.git) that we from [OctaCode](https://octacode.ba) use to spin up our projects.
+[NestJS Scaffold Project.
 
 ## Prerequisites
 
@@ -77,4 +77,4 @@ $ git add .husky/pre-commit
 This repository also includes recommended extensions that we use with VS Code. If you don't use VS Code, you can just remove the folder .vscode.
 
 Happy hacking!
-OctaCode Team
+Prathibha Ratnayake
