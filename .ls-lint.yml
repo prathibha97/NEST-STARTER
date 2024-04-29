@@ -1,0 +1,26 @@
+ls:
+    src: 
+        .dir: kebab-case
+    .interface.ts: kebab-case
+    .ts: kebab-case
+    .const.ts: kebab-case
+    .d.ts: kebab-case
+    .module.ts: kebab-case
+    .resolver.ts: kebab-case
+    .decorator.ts: kebab-case
+    .filter.ts: kebab-case
+    .pipe.ts: kebab-case
+    .controller.ts: kebab-case
+    .input.ts: kebab-case
+    .dto.ts: kebab-case
+    .schema.ts: kebab-case
+    .service.ts: kebab-case
+    .guard.ts: kebab-case
+    .e2e-spec.ts: kebab-case
+
+
+
+ignore: 
+    - .git 
+    - node_modules
+    - dist
