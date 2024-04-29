@@ -1,6 +1,6 @@
 ## Description
 
-[NestJS Scaffold Project.
+NestJS Scaffold Project.
 
 ## Prerequisites
 
